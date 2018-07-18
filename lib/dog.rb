@@ -1,6 +1,7 @@
 class Dog
 
-  @@all = Array.new
+  @@all = Array.new 
+  
 
 end
 
